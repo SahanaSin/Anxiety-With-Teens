@@ -1,0 +1,27 @@
+li {
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+}
+
+.img1 {
+    width: 180px;
+    top: 810px;
+    left: 852px;
+}
+
+.img2 {
+    width: 340px;
+    top: 270px;
+    left: 872px;
+}
+
+.img6 {
+    width: 240px;
+    top: 690px;
+    left: 1010px;
+}
+
+p {
+    font-size: 20px;
+}

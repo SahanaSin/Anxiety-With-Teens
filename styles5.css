@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    overflow: auto;
+    text-align: center;
+    background-color: #dee1e6ff;
+}
+
+p {
+    font-weight: bold;
+}
+
+.top {
+    font-weight: bolder;
+}
